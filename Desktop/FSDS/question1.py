@@ -1,7 +1,3 @@
-from itertools import count
-from unittest import result
-
-
 def twoSum(nums, target):
     num_map = {} 
     for i, num in enumerate(nums):
